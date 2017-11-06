@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "869156390503",
+    "firebase_url": "https://meu-app-2ace4.firebaseio.com",
+    "project_id": "meu-app-2ace4",
+    "storage_bucket": "meu-app-2ace4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869156390503:android:a8e27b6571bfbd75",
+        "android_client_info": {
+          "package_name": "com.example.jessedias.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869156390503-ocku6tr8am91m1kbvtipr1iotj331hqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jessedias.login",
+            "certificate_hash": "acac0408b5bdb4bf3e4a998d311d2f104462271d"
+          }
+        },
+        {
+          "client_id": "869156390503-vgjtsvma4d5prb6e8gq0qrvhnlpihbhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vioniwRz9_psWmwiDjESVu9KsbZ0vx8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869156390503-vgjtsvma4d5prb6e8gq0qrvhnlpihbhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
